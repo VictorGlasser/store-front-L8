@@ -131,7 +131,7 @@ footer {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: #0a5620;
+  background-color: #1f0a56ff;
   color: #fff;
   padding: 1rem;
   margin: 0;
