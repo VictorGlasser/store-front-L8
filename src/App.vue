@@ -109,12 +109,7 @@ export default {
 
 <style>
 body {
-  background-image: url('@/assets/algonquin.jpg');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed; /* Keeps the background in place when scrolling */
-  margin: 0;
-  padding: 0;
+  background-color: #fff;
 }
 
 #app {
@@ -131,7 +126,7 @@ footer {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: #a6ff00ff;
+  background-color: #003cffff;
   color: #fff;
   padding: 1rem;
   margin: 0;
@@ -161,7 +156,7 @@ a {
 
 button {
   padding: 10px;
-  background-color: #ff0000ff;
+  background-color: #003cffff;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -269,7 +264,7 @@ button {
 .checkout-button {
   margin-top: 20px;
   padding: 10px 20px;
-  background-color: #007acc;
+  background-color: #003cffff;
   color: #fff;
   border: none;
   border-radius: 5px;
